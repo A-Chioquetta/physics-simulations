@@ -1,4 +1,4 @@
-# 🧪 Pygame Physics Simulations
+# ⚛️ Pygame Physics Simulations
 
 This repository contains a collection of interactive physics simulations developed using the Pygame library in Python. Each simulation visually and customizably demonstrates fundamental concepts of mechanics and dynamics.
 
