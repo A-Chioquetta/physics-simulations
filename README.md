@@ -59,13 +59,13 @@ To run these simulations, follow the steps below:
 3.  **Clone the Repository (or Download Files):**
     If you have Git, you can clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/YourRepository.git](https://github.com/YourUsername/YourRepository.git)
-    cd YourRepository
+    git clone [https://github.com/A-Chioquetta/physics-simulations.git](https://github.com//A-Chioquetta/physics-simulations.git)
+    cd physics-simulations
     ```
     Alternatively, download the ZIP files directly from GitHub and extract them to a folder.
 
 4.  **Execute the Simulation:**
-    Navigate to the folder where you saved the files (using `cd your_folder_name` in the terminal) and run the desired file:
+    From the root directory of the cloned repository (or the extracted folder if you downloaded the ZIP) and run the desired file:
     ```bash
     python projectile_motion.py
     # or
