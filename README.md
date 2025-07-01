@@ -59,7 +59,7 @@ To run these simulations, follow the steps below:
 3.  **Clone the Repository (or Download Files):**
     If you have Git, you can clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/YourRepository.git](https://github.com/YourUsername/YourRepository.git)
+    git clone [https://github.com/A-Chioquetta/physics-simulations.git](https://github.com//A-Chioquetta/physics-simulations.git)
     cd YourRepository
     ```
     Alternatively, download the ZIP files directly from GitHub and extract them to a folder.
